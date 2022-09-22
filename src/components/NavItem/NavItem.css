@@ -1,0 +1,27 @@
+.navitem {
+  width: 90%;
+  background-color: #ffffff57;
+  padding: 1em;
+  margin-top: 10px;
+  border-radius: 5px;
+  backdrop-filter: blur(8px);
+  color: rgb(78, 78, 78);
+}
+.btn {
+  padding: 0.7rem 0.7rem;
+  border: none;
+  background-color: #aaafb149;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.btn-delete {
+  background-color: #e65151a1;
+  color: white;
+}
+.btn-edit {
+  background-color: rgba(230, 171, 63, 0.74);
+}
+.ml-1 {
+  margin-left: 1em;
+}
